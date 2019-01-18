@@ -119,7 +119,7 @@ Contacts
 
 Supporters
 ==========
-They don't endrose anything on this page, but they love the internet.
+They don't endorse anything on this page, but they love the internet.
 <script id="do-not-translate-randomize-this-section" src="/supporters-randomiser.js" defer></script>
 
 [![PowerDNS](/images/powerdns.svg)]()
