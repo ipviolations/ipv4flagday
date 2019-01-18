@@ -12,7 +12,7 @@
    data-name="Ebene 1"
    viewBox="0 0 419.96 312.32"
    version="1.1"
-   sodipodi:docname="DNS_Flag.svg"
+   sodipodi:docname="IPv4_Flag.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata4003">
@@ -39,8 +39,8 @@
      id="namedview4001"
      showgrid="false"
      inkscape:zoom="2.6255122"
-     inkscape:cx="209.98"
-     inkscape:cy="215.757"
+     inkscape:cx="140.27931"
+     inkscape:cy="276.69749"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -783,18 +783,24 @@
      d="M297.7,314h9.69L293.7,339.54v15.35h-8.56V339.54L271,314h10.08l8.51,17.83Z"
      transform="translate(-40.02 -93.84)"
      id="path3998" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot4005"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Grand Hotel';-inkscape-font-specification:'Grand Hotel';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none"
-     transform="matrix(2.420924,0,0,2.420924,-126.69201,-37.190656)"><flowRegion
-       id="flowRegion4007"
-       style="fill:#f9f9f9"><rect
-         id="rect4009"
-         width="249.856"
-         height="130.2603"
-         x="95.600395"
-         y="21.710049"
-         style="fill:#f9f9f9" /></flowRegion><flowPara
-       id="flowPara4011"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f9f9f9">IPv4</flowPara></flowRoot></svg>
+  <path
+     inkscape:connector-curvature="0"
+     id="path745"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.42092395"
+     d="m 139.02805,103.71717 h -27.80281 v -7.18712 h 9.22031 V 40.498899 h -9.22031 v -7.187118 h 27.80281 v 7.187118 h -9.22033 V 96.53005 h 9.22033 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path747"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.42092395"
+     d="m 201.11151,54.589432 q 0,4.681084 -1.65494,8.700196 -1.60764,3.971828 -4.53924,6.903417 -3.64082,3.640842 -8.60561,5.484906 -4.9648,1.796778 -12.53019,1.796778 h -9.36215 v 26.242441 h -9.36217 V 33.311781 h 19.10259 q 6.33602,0 10.73341,1.087525 4.39736,1.040239 7.80179,3.309856 4.01912,2.695168 6.19417,6.714282 2.22234,4.019112 2.22234,10.165988 z m -9.74044,0.236427 q 0,-3.640844 -1.27665,-6.336013 -1.27668,-2.695169 -3.87728,-4.397381 -2.26962,-1.465794 -5.20119,-2.080481 -2.88431,-0.661973 -7.32898,-0.661973 h -9.26759 v 28.133785 h 7.89638 q 5.67404,0 9.2203,-0.992956 3.54627,-1.040242 5.76861,-3.262573 2.22233,-2.269616 3.12071,-4.775652 0.94569,-2.506034 0.94569,-5.626756 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path749"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.42092395"
+     d="m 258.46659,50.901307 -21.37221,52.815863 h -8.93662 L 206.92739,50.901307 h 9.64588 l 16.36015,42.035183 16.2183,-42.035183 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path751"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.42092395"
+     d="m 318.23315,83.905309 h -10.44968 v 19.811861 h -9.07846 V 83.905309 H 264.99175 V 73.030065 l 34.09153,-39.718284 h 8.70019 v 43.02814 h 10.44968 z M 298.70501,76.339921 V 44.565294 l -27.28268,31.774627 z" />
+</svg>
