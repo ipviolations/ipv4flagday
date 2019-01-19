@@ -7,11 +7,11 @@
 	<a href="/"><img alt="English" src="/flags/en.svg"/></a>
 	<a href="/es"><img alt="Español" src="/flags/es.svg"/></a>
         <a href="/pt-br"><img alt="Português Brasileiro" src="/flags/pt-br.svg"/></a>
-</nav> 
+</nav>
 </div> CONTRIBUTE TRANSLATIONS ;) -->
 <div class="social">
 <nav>
-	<a href="https://twitter.com/ipv4flagday"><img alt="@ipv4flagday" src="/images/Twitter_Social_Icon_Rounded_Square_Color.svg"></a> 
+	<a href="https://twitter.com/ipv4flagday"><img alt="@ipv4flagday" src="/images/Twitter_Social_Icon_Rounded_Square_Color.svg"></a>
 </nav>
 </div>
 
@@ -76,7 +76,7 @@ Webserver operators
 ====================
 For introduction to IPv6 compatability we recommend you to use form above which produces simplified result for a whole domain.
 
-It is also possible to test your servers directly using dig and any ping binary that supports IPv6. 
+It is also possible to test your servers directly using dig and any ping binary that supports IPv6.
 
 The summary result of the website tests should preferably be a green message `All Ok`.
 
@@ -86,7 +86,7 @@ If there is a problem, the tool displays an explanation for each failed test. Fa
 * broken firewall configuration
 * bad luck
 
-To remediate problems please upgrade your software to the latest stable versions and test again. If the tests are still failing even after a upgrade please check your firewall configuration or talk to your hosting provider. 
+To remediate problems please upgrade your software to the latest stable versions and test again. If the tests are still failing even after a upgrade please check your firewall configuration or talk to your hosting provider.
 
 **Firewalls must not drop IPv6 packets**, including unknown protocols. Modern software may deploy new protocols (e.g. [DHCPv6](https://en.wikipedia.org/wiki/DHCPv6) to protect from DoS attacks). Firewalls which drop IPv6 packets with such protocols are making the situation worse for everyone, including worsening DoS attacks and inducing higher latency for DNS traffic.
 
@@ -141,3 +141,5 @@ They don't endorse anything on this page, but they love the internet.
 [![Google](/images/google.svg)]()
 
 [![Facebook](/images/facebook.svg)]()
+
+[![ungleich](/images/ungleich_logo.png)]()
