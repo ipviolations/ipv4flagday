@@ -143,3 +143,5 @@ They don't endorse anything on this page, but they love the internet.
 [![Facebook](/images/facebook.svg)]()
 
 [![ungleich](/images/ungleich_logo.png)]()
+
+[![ipv6onlyhosting.com](/images/ipv6onlyhostingcom.png)]()
