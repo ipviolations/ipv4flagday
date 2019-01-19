@@ -17,7 +17,7 @@
 
 What is happening?
 ==================
-The current <a href="https://wikipedia.org/wiki/IPv4">IPv4</a> is unnecessarily slow and suffers from inability to deploy new features. To remediate these problems, <a href="#supporters">software vendors</a> and also big <a href="#supporters">content and access ISPs</a> are going to remove IPv4 backwards compatibility in favor of <a href="https://wikipedia.org/wiki/IPv4">IPv6</a> on February 1st, 2030.
+The current <a href="https://wikipedia.org/wiki/IPv4">IPv4</a> is unnecessarily slow and suffers from inability to deploy new features. To remediate these problems, <a href="#supporters">software vendors</a> and also big <a href="#supporters">content and access ISPs</a> are going to remove IPv4 backwards compatibility in favor of <a href="https://wikipedia.org/wiki/IPv6">IPv6</a> on February 1st, 2030.
 
 This change affects only sites which operate software which doesn't support IPv6. Are you affected?
 
