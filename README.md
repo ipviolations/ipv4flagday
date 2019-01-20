@@ -142,4 +142,6 @@ They don't endorse anything on this page, but they love the internet.
 
 [![Facebook](/images/facebook.svg)]()
 
-[![ungleich](/images/ungleich_logo.png)]()
+[![ungleich](/images/ungleich_logo.png)](https://ungleich.ch)
+
+[![ipv6onlyhosting.com](/images/ipv6onlyhostingcom.png)](https://ipv6onlyhosting.com)
