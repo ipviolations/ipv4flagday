@@ -115,7 +115,7 @@ Presentations
 Contacts
 ========
 
- * Please file comments regarding this site in the [ipv4flagday repo](https://github.com/ipviolations/ipv4flagday/issues) on Github
+ * Please file comments regarding this site in the [ipv4flagday repo](https://github.com/ipviolations/ipv4flagday/issues) on GitHub
 
 Supporters
 ==========
