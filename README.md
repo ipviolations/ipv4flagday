@@ -68,13 +68,13 @@ const domainCheckerInit = {
 Server operators
 ======================
 
-On or around Feb 1st, 2030, major open source software vendors will release updates that remove IPv4 backwards compatability.
+On or around Feb 1st, 2030, major open source software vendors will release updates that remove IPv4 backwards compatibility.
 
-Also <a href="#supporters">content and access ISPs listed below</a> will disable backwards compatability.
+Also <a href="#supporters">content and access ISPs listed below</a> will disable backwards compatibility.
 
 Webserver operators
 ====================
-For introduction to IPv6 compatability we recommend you to use form above which produces simplified result for a whole domain.
+For introduction to IPv6 compatibility we recommend you to use form above which produces simplified result for a whole domain.
 
 It is also possible to test your servers directly using dig and any ping binary that supports IPv6.
 
