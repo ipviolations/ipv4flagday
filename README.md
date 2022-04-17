@@ -25,44 +25,17 @@ Site owners
 =============
 Please check if your site is affected:
 <div id="domain-checker">
-	<form action="https://dns.google.com/resolve" method="GET" target="_blank">
+	<form action="https://www.mythic-beasts.com/ipv6/health-check" method="GET" target="_blank">
 		<fieldset>
 			<legend>Test your site</legend>
 			<label for="name">Domain name (without www):
-				<input type="text" name="name" id="name" required title="Please enter a domain name to test IPv6 connectivity.">
+				<input type="text" name="domain" required title="Please enter a domain name to test IPv6 connectivity.">
 			</label>
 			<input type="submit" value="Test!">
-			<noscript>Your browser does not support JavaScript! Consider upgrading your browser...<br>
-			</noscript>
 		</fieldset>
 	</form>
 </div>
-<script><!-- translate the form above and these constants, please keep the whitespaces! -->
-const domainCheckerInit = {
-	placeIntoElement: document.getElementById( "domain-checker" ),
-	texts: {
-		formTitle: 'Test your site',
-		labelText: 'Domain name (without www): ',
-		submitText: 'Test!',
-		reportOkHtml: ': <span style="color: green;">All Ok!</span></div>' +
-		'<div><img style="height: 5em;" src="/signs/ok.svg"/></div>' +
-		'<div>This site is perfectly ready, congratulations!',
 
-		reportFailHtml: ': <span style="font-weight: bold; color: red;">Fatal error detected!</span></div>' +
-		'<div><img style="height: 5em;" src="/signs/dead.svg"/></div>' +
-		'<div>This site is going to STOP WORKING after the 2030 IPv4 flag day! Please retry the test to eliminate random network failures. If the problem persists you really need to request a fix from your domain administrator. You can refer them to https://ipv4flagday.net/ ',
-
-		reportTestErrorHtml: ': Test cannot be evaluated because of an error. Please make sure the domain name entered refers to a <strong>domain</strong>, i.e. use "example.com" instead of "www.example.com". Retry the test to eliminate random network failures or investigate.',
-	},
-	status: {
-		loading: 'Testing in progress, please wait… It might take several tens of seconds.',
-		done: 'Testing completed:',
-		errorApi: 'Communication error! API unavailable… please try again later',
-		errorInput: 'Invalid input or other unexpected error, sorry!',
-	},
-};
-</script>
-<script src="domain-checker.js"></script>
 <br>
 
 Server operators
